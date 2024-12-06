@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-726624f640839dbc7f1d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Farmsimulator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Farmsimulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Farmsimulator-Debug-b04fff65fec90c92a582.json",
+					"name" : "Farmsimulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Farmsimulator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Farmsimulator_autogen-Debug-cecd4995ab74af5dba43.json",
+					"name" : "Farmsimulator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Farmsimulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Farmsimulator_autogen_timestamp_deps-Debug-63d8c2e765b1033eeb3e.json",
+					"name" : "Farmsimulator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/Programme/Farmsimulator/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/Qt/Programme/Farmsimulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
